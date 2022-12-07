@@ -1,0 +1,21 @@
+{
+  "name": "tronbox-web3",
+  "version": "0.1.0-beta",
+  "description": "A tool for migration from truffle to tronbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "migration",
+    "truffle",
+    "tronbox"
+  ],
+  "author": "startan",
+  "license": "ISC",
+  "devDependencies": {
+    "ganache": "^7.5.0",
+    "mocha": "^10.1.0",
+    "web3": "^1.8.0"
+  }
+}
